@@ -38,8 +38,8 @@ This repository contains a Flask-based API for face recognition and liveness det
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/face-recognition-api.git
-   cd face-recognition-api
+   git clone https://github.com/Hammad4807/Face-Recognition.git
+   cd Face-Recognition
 
 2. Install the dependencies:
     ```bash
